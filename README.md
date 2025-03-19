@@ -4,7 +4,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Logo_of_Fontys_University_of_Applied_Sciences.png" alt="Logo of Fontys" width="300"/> </h3>
 <br>
 
-- 🔭 I’m currently working on [QuietQuill](https://github.com/yunkaa19/QuietQuill-be)
+- 🔭 I’m currently on an internship
 
 - 🌱 I’m currently learning **Node.js** and **React**
 
