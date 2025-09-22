@@ -5,7 +5,7 @@
 
 <h3 align="center"> At Exchange in: <br><br>
 <div style="background-color:white; display:inline-block; padding:10px;">
-  <img src="YOUR_LOGO.png" alt="Exchange Logo" width="300"/>
+  <img src="https://upload.wikimedia.org/wikipedia/ca/4/48/Logo_URV.png" alt="Exchange Logo" width="300"/>
 </div> </h3>
 <br>
 
