@@ -2,13 +2,16 @@
 <h3 align="center">A developer from Bulgaria 🇧🇬 <br><br>
 <h3 align="center"> currently studying at: <br><br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Logo_of_Fontys_University_of_Applied_Sciences.png" alt="Logo of Fontys" width="300"/> </h3>
+
+<h3 align="center"> At Exchange in: <br><br>
+<img src="https://upload.wikimedia.org/wikipedia/ca/4/48/Logo_URV.png" width="300"/> </h3>
 <br>
 
-- 🔭 I’m currently on an internship
+- 🔭 I’m currently on an Erasmus Exchange
 
-- 🌱 I’m currently learning **Node.js** and **React**
+- 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about <strong>C# </strong>
+- 💬 Ask me about <strong>C# </strong> and why I like it more
 
 - 📫 How to reach me **yunuz2002@gmail.com** ✉️
 
